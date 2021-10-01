@@ -235,4 +235,4 @@ async def pay(ctx,user,amount):
             json.dump(data, f)
     else:
         await ctx.send("אתה לא יכול לעשות את זה.....")
-client.run("NzM0ODA5MzIxODU4MjY5Mjc0.XxXGgg.5LmH5kwoQDMwp703uKKu6c9rMUQ")
+client.run("")
